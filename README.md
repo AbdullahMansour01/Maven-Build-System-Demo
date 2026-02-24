@@ -1,3 +1,4 @@
+[![CI](https://github.com/AbdullahMansour01/Maven-Build-System-Demo/actions/workflows/ci.yml/badge.svg)](https://github.com/AbdullahMansour01/Maven-Build-System-Demo/actions/workflows/ci.yml)
 # Word Frequency Analyzer — Maven Build System Demo
 
 <!-- ── CI BADGES ─────────────────────────────────────────────────────── -->
